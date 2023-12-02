@@ -1,2 +1,2 @@
 # Color markers
-> Set of colored markers
+> Set of colored markers.
